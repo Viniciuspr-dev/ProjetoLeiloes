@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.sql.SQLException;
-
+// classe produtoDAO
 public class ProdutosDAO {
     
     Connection conn;
