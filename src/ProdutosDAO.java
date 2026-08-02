@@ -14,7 +14,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.sql.SQLException;
 // classe produtoDAO
-
+// classe produtosDAO
 public class ProdutosDAO {
 
     Connection conn;
